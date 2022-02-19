@@ -1,5 +1,5 @@
 # Microsoft_FRT_project
-Contains file developed during Microsoft Future Ready Talent Project
+
 
 project link - https://rahul-mfrt-project.azurewebsites.net/
 
